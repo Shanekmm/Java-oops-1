@@ -1,6 +1,6 @@
 package hack;
 
-public class Browser {
+public class Read {
 	String[] history=new String[10];
 	int l=0;
 	void visit(String url)

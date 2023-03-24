@@ -8,7 +8,7 @@ public class Hack {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-		Browser chrome = new Browser();
+		Read chrome = new Read();
 		System.out.println("Enter the number of browsers");
 		int n = sc.nextInt();
 		sc.nextLine();
